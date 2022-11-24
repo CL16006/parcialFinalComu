@@ -916,7 +916,7 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "ca066e81-f4fb-4e04-8006-b1d4f419ceef",
                 "width": 66,
-                "x": -295,
+                "x": -294,
                 "y": -262,
                 "z": 1
             },
@@ -1515,8 +1515,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 680,
-                "y": -109,
+                "x": 681,
+                "y": -108,
                 "z": 1
             },
             {
